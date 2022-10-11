@@ -21,6 +21,24 @@ public class Week1
         System.out.println("Nice to see your lovely face");
         System.out.println ("Hope you are feeling well");
 
+        int L = InputReader.getInt("rectangle length > ");
+        int H = InputReader.getInt( "rectangle with > ");
+
+        System.out.println("rectangle perimeter");
+        System.out.println(L+H);
+
+        System.out.println("rectangle area");
+        System.out.println(L*H);
+
+    
+        
+
+        
 
     } 
+
+    
+
+    
+
 }
